@@ -1,0 +1,17 @@
+body{
+  font-family: Verdana;
+  text-align: center;
+  font-weight: normal;
+  color: White;
+  background-color: Black;
+}
+
+/* top section */
+h1{
+  font-size: 50px;
+}
+
+.download{
+  color: Aquamarine;
+  font-size: 16px;
+}
