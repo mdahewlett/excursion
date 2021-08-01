@@ -16,10 +16,6 @@ h1{
   color: Aquamarine;
 }
 
-a:visited{
-  color:Aquamarine;
-}
-
 /* main */
 h2{
   font-size: 42px;
@@ -34,5 +30,4 @@ p{
 /* footer */
 footer{
   text-align: right;
-  color: Gray;
 }
